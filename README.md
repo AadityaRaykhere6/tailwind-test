@@ -14,10 +14,10 @@ This project focuses on clean UI design, responsiveness, and real-world layout s
 ## 📸 Preview
 
 ### Desktop View
-![Desktop Screenshot](screenshots/desktop.png)
+![Desktop Screenshot](tailwind-test/screenshots/desktop.png)
 
 ### Mobile View
-![Mobile Screenshot](screenshots/mobile.png)
+![Mobile Screenshot](tailwind-test/screenshots/mobile.png)
 
 ---
 
